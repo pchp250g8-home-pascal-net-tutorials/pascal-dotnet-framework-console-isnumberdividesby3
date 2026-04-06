@@ -1,4 +1,4 @@
-SumOfDigits. Pascal Tutorials. Platform DotNet FrameWork. Algorithms. Console Application. 
+IsNumberDividesBy3. Pascal Tutorials. Platform DotNet FrameWork. Algorithms. Console Application. 
 A console application project written in the C# programming language and implemented in the PascalABCDotNet integrated environment. 
 The DotNet Framework Platform provides simple input/output. Determining the sum of digits in a number entered from the keyboard.
 The program does the following:
@@ -13,7 +13,7 @@ The program does the following:
     c) The temporary variable is divisible by 10.     
   5. The entered number and the sum of its digits are displayed on the screen.
 
-SumOfDigits. Занятия по Pascal. Платформа DotNet FrameWork. Алгоритмы. Простой ввод/вывод. Консольное приложение.
+IsNumberDividesBy3. Занятия по Pascal. Платформа DotNet FrameWork. Алгоритмы. Простой ввод/вывод. Консольное приложение.
 Проект консольного приложения написан на языке программирования Pascal и реализован в интегрированной среде PascalABCDotNet. 
 Платформа DotNet Framework. Простой ввод-вывод. Определение суммы цифр в числе, введённом с клавиатуры.
 Данная программа делает следующее:
